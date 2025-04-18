@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/niksoriginals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niksoriginals" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/niksoriginals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niksoriginals" height="30" width="40" /></a>
-<a href="https://instagram.com/niksoriginall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niksoriginall" height="30" width="40" /></a>
+<a href="https://instagram.com/niksoriginalss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niksoriginall" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/niksoriginals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niksoriginals" height="30" width="40" /></a>
 </p>
 
