@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Nofy](nofy.netlify.app)
 
-- 👨‍💻 All of my projects are available at [niksoriginals.netlify.app](niksoriginals.netlify.app)
+- 👨‍💻 All of my projects are available at [niksoriginals.netlify.app](https://wwww.niksoriginals.netlify.app)
 
 - 📫 How to reach me **niksoriginals@gmail.com**
 
