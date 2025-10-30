@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/niksoriginals" target="blank"><img src="https://img.shields.io/twitter/follow/niksoriginals?logo=twitter&style=for-the-badge" alt="niksoriginals" /></a> </p>
 
-- 🔭 I’m currently working on [Nofy](nofy.netlify.app)
+- 🔭 I’m currently working on [Nofy](https://nofy.netlify.app)
 
-- 👨‍💻 All of my projects are available at [niksoriginals.netlify.app](https://.niksoriginals.netlify.app)
+- 👨‍💻 All of my projects are available at [niksoriginals.netlify.app](https://niksoriginals.netlify.app)
 
 - 📫 How to reach me **niksoriginals@gmail.com**
 
