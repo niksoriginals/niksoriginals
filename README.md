@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **niksoriginals@gmail.com**
 
-- ⚡ Fun fact **SUCKEDUP**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
