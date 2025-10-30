@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/niksoriginals" target="blank"><img src="https://img.shields.io/twitter/follow/niksoriginals?logo=twitter&style=for-the-badge" alt="niksoriginals" /></a> </p>
 
-- 🔭 I’m currently working on [Rise](https://github.com/niksoriginals/RiseApp)
+- 🔭 I’m currently working on [Nofy](nofy.netlify.app)
 
 - 👨‍💻 All of my projects are available at [niksoriginals.netlify.app](niksoriginals.netlify.app)
 
