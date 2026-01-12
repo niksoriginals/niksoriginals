@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Nofy](https://nofy.surge.sh)
 
-- 👨‍💻 All of my projects are available at [niksoriginals.netlify.app](https://niksoriginals.surge.sh)
+- 👨‍💻 All of my projects are available at [niksoriginals](https://niksoriginals.surge.sh)
 
 - 📫 How to reach me **niksoriginals@gmail.com**
 
