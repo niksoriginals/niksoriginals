@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <h3 align="center">CS Student | Backend & Automation Focused | India 🇮🇳</h3>
-
+<img align="right" alt="Coding" width="400" style="border-radius: 12px;" src="https://raw.githubusercontent.com/niksoriginals/niksoriginals/refs/heads/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" />
 ---
 
 ## 🚀 About Me
@@ -14,7 +14,7 @@
 - 🌐 Portfolio: https://niksoriginals.in
 - 📧 Email: niksoriginals@gmail.com
 - ⚡ Mindset: Focused & Execution-Driven
-<img align="right" alt="Coding" width="400" style="border-radius: 12px;" src="https://raw.githubusercontent.com/niksoriginals/niksoriginals/refs/heads/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" />
+
 ---
 
 ## 🌐 Connect With Me
