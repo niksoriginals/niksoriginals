@@ -42,13 +42,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niksoriginals&show_icons=true&theme=radical&count_private=true" alt="Nikhil's Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niksoriginals&theme=radical" alt="Nikhil's Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niksoriginals&layout=compact&theme=radical" alt="Nikhil's Top Langs" />
-</p>
+
