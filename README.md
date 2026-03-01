@@ -15,15 +15,17 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/niksoriginals/niksoriginals/refs/heads/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" />
+<img align="right" src="https://raw.githubusercontent.com/niksoriginals/niksoriginals/refs/heads/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" width="380" style="float: right; margin-left: 20px; border-radius: 12px;" />
 
-- 🔭 **Currently Building:** [Nofy](https://niksoriginals.in) - An AI-powered educational assistant.
+- 🔭 **Currently Building:** [Nofy](https://niksoriginals.in) — An AI-powered educational assistant.
 - 🔧 **Focus:** Scalable Backends, API Integration, and Python-based Automation.
 - 🌐 **Portfolio:** [niksoriginals.in](https://niksoriginals.in)
 - 📧 **Contact:** [niksoriginals@gmail.com](mailto:niksoriginals@gmail.com)
-- ⚡ **Philosophy:** Code is poetry when it's execution-driven.
+- ⚡ **Mindset:** Focused & Execution-Driven.
+
+<br clear="right"/> 
 
 ---
 
