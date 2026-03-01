@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently building **Nofy**
-- 🌐 Portfolio: https://niksoriginals.netlify.app
+- 🌐 Portfolio: https://niksoriginals.in
 - 📧 Email: niksoriginals@gmail.com
 - ⚡ Mindset: Focused & Execution-Driven
 
