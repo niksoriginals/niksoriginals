@@ -1,98 +1,56 @@
-<!-- Master Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niksoriginals/niksoriginals/refs/heads/main/image1.gif" alt="MasterHead" />
+  <img src="https://raw.githubusercontent.com/niksoriginals/niksoriginals/refs/heads/main/image1.gif" alt="MasterHead" width="800" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
-<h3 align="center">CS Student | Backend & Automation Focused | India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" style="border-radius: 12px;" src="https://raw.githubusercontent.com/niksoriginals/niksoriginals/refs/heads/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" />
+<p align="center">
+  <strong>CS Student | Backend & Automation Architect | India 🇮🇳</strong>
+</p>
 
-
-## 🚀 About Me
-
-- 🔭 Currently building **Nofy**
-- 🌐 Portfolio: https://niksoriginals.in
-- 📧 Email: niksoriginals@gmail.com
-- ⚡ Mindset: Focused & Execution-Driven
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/niksoriginals" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-
-<a href="https://instagram.com/niksoriginalss" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-
-<a href="https://youtube.com/@niksoriginals" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
-</a>
+<p align="center">
+  <a href="https://twitter.com/niksoriginals"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/niksoriginalss"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@niksoriginals"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+### 🚀 About Me
 
-<p align="left">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/niksoriginals/niksoriginals/refs/heads/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif" />
 
-<a href="https://developer.android.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-</a>
+- 🔭 **Currently Building:** [Nofy](https://niksoriginals.in) - An AI-powered educational assistant.
+- 🔧 **Focus:** Scalable Backends, API Integration, and Python-based Automation.
+- 🌐 **Portfolio:** [niksoriginals.in](https://niksoriginals.in)
+- 📧 **Contact:** [niksoriginals@gmail.com](mailto:niksoriginals@gmail.com)
+- ⚡ **Philosophy:** Code is poetry when it's execution-driven.
 
-<a href="https://flutter.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://dart.dev" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-</a>
+### 🛠️ My Tech Stack
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, Dart, SQL, HTML/CSS |
+| **Backend & Cloud** | Flask, Node.js, Firebase, MySQL, SQLite |
+| **Mobile & Frontend** | Android, Flutter, Tailwind CSS |
+| **Automation** | WhatsApp Business API, Gemini/OpenRouter API, Selenium |
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+### 📊 GitHub Activity & Stats
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niksoriginals&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=niksoriginals&theme=tokyonight" />
+</p>
 
-<a href="https://firebase.google.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=niksoriginals&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=niksoriginals&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niksoriginals" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=niksoriginals&layout=compact" />
+  <img src="https://komarev.com/ghpvc/?username=niksoriginals&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
