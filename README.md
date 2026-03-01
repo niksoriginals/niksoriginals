@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Yadav</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+%26+Automation+Architect;CS+Student+at+I.T.S;Building+Nofy+AI+🚀;Python+%26+Flask+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+%26+Automation+Architect;CS+Student+at+I.T.S;Building+Nofy+🚀;Python+%26+Flask+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,6 @@
 - 🌐 **Portfolio:** [niksoriginals.in](https://niksoriginals.in)
 - 📧 **Contact:** [niksoriginals@gmail.com](mailto:niksoriginals@gmail.com)
 - ⚡ **Mindset:** Focused & Execution-Driven.
-
 <br clear="right"/> 
 
 ---
@@ -32,8 +31,8 @@
 ### 🛠️ Tech Stack & Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,dart,html,css,mysql,sqlite,mongodb" /><br><br>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,firebase,flutter,tailwind,androidstudio,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=py,js,dart,html,css,mysql,sqlite," /><br><br>
+  <img src="https://skillicons.dev/icons?i=flask,firebase,flutter,tailwind,androidstudio,github," />
 </p>
 
 ---
