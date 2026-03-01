@@ -40,6 +40,7 @@
 ### 📊 GitHub Analysis & Stats
 
 <p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=niksoriginals&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=niksoriginals&theme=tokyonight&hide_border=true" />
 </p>
