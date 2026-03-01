@@ -32,7 +32,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,dart,html,css,mysql,sqlite," /><br><br>
-  <img src="https://skillicons.dev/icons?i=flask,firebase,flutter,tailwind,androidstudio,github," />
+  <img src="https://skillicons.dev/icons?i=firebase,flutter,tailwind,androidstudio,github," />
 </p>
 
 ---
