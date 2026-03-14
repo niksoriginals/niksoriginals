@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=niksoriginals&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niksoriginals&theme=tokyonight&hide_border=true" width="48%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=niksoriginals&theme=tokyonight&hide_border=true&cache_buster=123" width="48%"/>
 </p>
 
 <p align="center">
