@@ -22,7 +22,7 @@
 - 🔭 **Currently Building:** [Nofy](https://niso.niksoriginals.in) — An AI-powered educational assistant for I.T.S Students.
 - 🔧 **Focus:** Scalable Backends, API Integration, and Python-based Automation.
 - 🌐 **Portfolio:** [niksoriginals.in](https://niksoriginals.in)
-- 📧 **Contact:** [niksoriginals@gmail.com](mailto:niksoriginals@gmail.com)
+- 📧 **Contacts:** [niksoriginals@gmail.com](mailto:niksoriginals@gmail.com)
 - ⚡ **Mindset:** Focused & Execution-Driven.
 <br clear="right"/> 
 
